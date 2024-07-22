@@ -5,7 +5,7 @@ from openai import OpenAI
 class MyWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.apiKey="LL-MIZFNko1JSpFVzfyG0VPk3PjRx97c6KkTzR90gdiyCzKhgXEsrgVd4oTTIAtr34Y"
+        self.apiKey=#YOUR API GOES HERE
 
         # Set up the layout
         self.layout = QVBoxLayout()
